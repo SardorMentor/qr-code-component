@@ -39,9 +39,11 @@ body {
 .card-title {
   font-size: 22px;
   font-weight: 700;
+  color: #1f3251;
   margin-bottom: 16px;
 }
 .card-description {
+  color: #7b879d;
   margin: 0 auto;
   max-width: 250px;
 }
