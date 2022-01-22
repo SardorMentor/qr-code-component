@@ -25,6 +25,7 @@ body {
   background-color: white;
   border-radius: 16px;
   text-align: center;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
 }
 .card .wrapper {
   padding: 16px;
