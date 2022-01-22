@@ -1,0 +1,34 @@
+.card {
+  margin: 85px 27px 85px 28px;
+  max-width: 320px;
+  background-color: $white;
+  border-radius: 16px;
+  text-align: center;
+
+  .wrapper {
+    padding: 16px;
+    padding-bottom: 40px;
+  }
+
+
+  &-image {
+    img {
+      display: block;
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 24px;
+    }
+  }
+
+  &-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 16px;
+  }
+
+  &-description {
+    margin: 0 auto;
+    max-width: 250px;
+  }
+}
+  
